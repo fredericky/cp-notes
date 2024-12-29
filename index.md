@@ -1,4 +1,4 @@
-## Welcome to my USACO notes!
+## Welcome!
 
 * [Binary Search](binary_search/index.md)
 * [Difference Array](difference_array/index.md)
