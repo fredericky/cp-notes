@@ -1,6 +1,6 @@
-| Problem | Source | Difficulty |
-|:------- |:------ |:---------- |
-|[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|
+| Problem | Source | Difficulty | Solution |
+|:------- |:------ |:---------- |:-------- |
+|[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|[sol](sols/angry_cows.md)
 |[Closest to the Left](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|CF|Easy|
 |[Convention](https://usaco.org/index.php?page=viewproblem2&cpid=858)|USACO Silver|Easy|
 |[Fast search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D)|CF|Easy|

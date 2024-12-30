@@ -4,7 +4,7 @@
 |[High Card Low Card (Gold)](https://usaco.org/index.php?page=viewproblem2&cpid=573)|USACO Gold|Easy|
 |[Lemonade Line](https://usaco.org/index.php?page=viewproblem2&cpid=835)|USACO Silver|Easy|
 |[Searching for Soulmates](https://usaco.org/index.php?page=viewproblem2&cpid=1182)|USACO Silver|Easy|
-|[Stick Lengths](https://cses.fi/problemset/result/11591257/)|CSES|Easy|[Sol](sols/stick_lengths.md)|
+|[Stick Lengths](https://cses.fi/problemset/result/11591257/)|CSES|Easy|[sol](sols/stick_lengths.md)|
 |[Why Did the Cow Cross the Road](https://usaco.org/index.php?page=viewproblem2&cpid=714)|USACO Silver|Easy|
 |[Berry Picking](https://usaco.org/index.php?page=viewproblem2&cpid=990)|USACO Silver|Medium|
 |[Bovine Acrobatics](https://usaco.org/index.php?page=viewproblem2&cpid=1350)|USACO Silver|Medium|
