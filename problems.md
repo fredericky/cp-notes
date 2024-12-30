@@ -20,7 +20,7 @@
 ### Binary Search
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
-|[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|[sol](sols/angry_cows.md)
+|[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|[sol](sols/angry_cows.html)
 |[Closest to the Left](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|CF|Easy|TBD|
 |[Convention](https://usaco.org/index.php?page=viewproblem2&cpid=858)|USACO Silver|Easy|TBD|
 |[Fast search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D)|CF|Easy|TBD|
@@ -38,7 +38,7 @@
 |[High Card Low Card (Gold)](https://usaco.org/index.php?page=viewproblem2&cpid=573)|USACO Gold|Easy|TBD|
 |[Lemonade Line](https://usaco.org/index.php?page=viewproblem2&cpid=835)|USACO Silver|Easy|TBD|
 |[Searching for Soulmates](https://usaco.org/index.php?page=viewproblem2&cpid=1182)|USACO Silver|Easy|TBD|
-|[Stick Lengths](https://cses.fi/problemset/result/11591257/)|CSES|Easy|[sol](sols/stick_lengths.md)
+|[Stick Lengths](https://cses.fi/problemset/result/11591257/)|CSES|Easy|[sol](sols/stick_lengths.html)
 |[Why Did the Cow Cross the Road](https://usaco.org/index.php?page=viewproblem2&cpid=714)|USACO Silver|Easy|TBD|
 |[Berry Picking](https://usaco.org/index.php?page=viewproblem2&cpid=990)|USACO Silver|Medium|TBD|
 |[Bovine Acrobatics](https://usaco.org/index.php?page=viewproblem2&cpid=1350)|USACO Silver|Medium|TBD|
