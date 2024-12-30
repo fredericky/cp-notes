@@ -1,3 +1,5 @@
 ## Convert markdown to html
 
-pandoc -f markdown -t html5 -o output.html input.md
+```
+pandoc -s -f markdown -t html5 --mathjax -o output.html input.md
+```

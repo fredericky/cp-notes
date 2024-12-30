@@ -8,7 +8,7 @@
 |[Subsequences Summing to Sevens](https://usaco.org/index.php?page=viewproblem2&cpid=595)|USACO Silver|Easy|TBD|
 |[Subarray Sums II](https://cses.fi/problemset/task/1661)|CSES|Easy|TBD|
 |[Why Did the Cow Cross the Road II](https://usaco.org/index.php?page=viewproblem2&cpid=715)|USACO Silver|Easy|TBD|
-|[Cake Game](https://usaco.org/index.php?page=viewproblem2&cpid=1446)|USACO Silver|Medium|TBD|
+|[Cake Game](https://usaco.org/index.php?page=viewproblem2&cpid=1446)|USACO Silver|Medium|[sol](sols/cake_game.html)|
 |[Rectangular Pasture](https://usaco.org/index.php?page=viewproblem2&cpid=1063)|USACO Silver|Hard|TBD|
 
 ### Difference Array
