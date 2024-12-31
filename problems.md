@@ -1,14 +1,14 @@
 ### Prefix Sum
 | Problem | Source | Difficulty | Solution |
-|:- |:- |:- |:- |
+|:- |:- |:- |:-|
 |[Breed Counting](https://usaco.org/index.php?page=viewproblem2&cpid=572)|USACO Silver|Easy|TBD|
 |[Forest Queries](https://cses.fi/problemset/task/1652)|CSES|Easy|TBD|
 |[Hoof, Paper, Scissors](https://usaco.org/index.php?page=viewproblem2&cpid=691)|USACO Silver|Easy|TBD|
-|[Subarray Divisibility](https://cses.fi/problemset/task/1662)|CSES|Easy|TBD|
-|[Subsequences Summing to Sevens](https://usaco.org/index.php?page=viewproblem2&cpid=595)|USACO Silver|Easy|TBD|
+|[Subarray Divisibility](https://cses.fi/problemset/task/1662)|CSES|Easy|[Sol](sols/subarray_divisibility.md)|
+|[Subsequences Summing to Sevens](https://usaco.org/index.php?page=viewproblem2&cpid=595)|USACO Silver|Easy|[Sol](sols/subsequences_summing_to_7.html)|
 |[Subarray Sums II](https://cses.fi/problemset/task/1661)|CSES|Easy|TBD|
 |[Why Did the Cow Cross the Road II](https://usaco.org/index.php?page=viewproblem2&cpid=715)|USACO Silver|Easy|TBD|
-|[Cake Game](https://usaco.org/index.php?page=viewproblem2&cpid=1446)|USACO Silver|Medium|[sol](sols/cake_game.html)|
+|[Cake Game](https://usaco.org/index.php?page=viewproblem2&cpid=1446)|USACO Silver|Medium|[Sol](sols/cake_game.html)|
 |[Rectangular Pasture](https://usaco.org/index.php?page=viewproblem2&cpid=1063)|USACO Silver|Hard|TBD|
 
 ### Difference Array
@@ -20,7 +20,7 @@
 ### Binary Search
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
-|[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|[sol](sols/angry_cows.html)
+|[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|[sSl](sols/angry_cows.html)
 |[Closest to the Left](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|CF|Easy|TBD|
 |[Convention](https://usaco.org/index.php?page=viewproblem2&cpid=858)|USACO Silver|Easy|TBD|
 |[Fast search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D)|CF|Easy|TBD|
