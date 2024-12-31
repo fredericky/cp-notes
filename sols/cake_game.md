@@ -7,7 +7,7 @@ Let's start from the simple cases.
 
 From the above, we should have observations below
 
-* Bessie takes $\frac{N}{2}$ turns, Elsie takes $\frac{N}{2}$-1$ turns
+* Bessie takes $\frac{N}{2}$ turns, Elsie takes $\frac{N}{2}-1$ turns
 * $\frac{N}{2}-1$ cakes taken by Elsie are leftmost and rightmost cakes, i.e. prefix and suffix of the cakes array
 
 Next, we should go deep on how Bessie impacts the Elsie cakes. Let's make it simple. If without Bessie, Elsie takes either prefix or suffix or both. In general, assume the prefix length is $L_1$ and the suffix length is $L_2$, the optional answer for Elsie is
