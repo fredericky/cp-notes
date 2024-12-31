@@ -4,7 +4,7 @@
 |[Breed Counting](https://usaco.org/index.php?page=viewproblem2&cpid=572)|USACO Silver|Easy|TBD|
 |[Forest Queries](https://cses.fi/problemset/task/1652)|CSES|Easy|TBD|
 |[Hoof, Paper, Scissors](https://usaco.org/index.php?page=viewproblem2&cpid=691)|USACO Silver|Easy|TBD|
-|[Subarray Divisibility](https://cses.fi/problemset/task/1662)|CSES|Easy|[Sol](sols/subarray_divisibility.md)|
+|[Subarray Divisibility](https://cses.fi/problemset/task/1662)|CSES|Easy|[Sol](sols/subarray_divisibility.html)|
 |[Subsequences Summing to Sevens](https://usaco.org/index.php?page=viewproblem2&cpid=595)|USACO Silver|Easy|[Sol](sols/subsequences_summing_to_7.html)|
 |[Subarray Sums II](https://cses.fi/problemset/task/1661)|CSES|Easy|TBD|
 |[Why Did the Cow Cross the Road II](https://usaco.org/index.php?page=viewproblem2&cpid=715)|USACO Silver|Easy|TBD|
