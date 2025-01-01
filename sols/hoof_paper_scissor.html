@@ -259,17 +259,31 @@ class="math inline">\([1, 1, 0, 1, 0]\)</span></li>
 <li><span class="math inline">\(P\)</span> - <span
 class="math inline">\([0, 0, 1, 0, 0]\)</span></li>
 </ul>
-<p>The prefix sum: * <span class="math inline">\(H\)</span> - <span
-class="math inline">\([0, 0, 0, 0, 1]\)</span> * <span
-class="math inline">\(S\)</span> - <span class="math inline">\([1, 2, 2,
-3, 3]\)</span> * <span class="math inline">\(P\)</span> - <span
-class="math inline">\([0, 0, 1, 1, 1]\)</span></p>
+<p>The prefix sum:</p>
+<ul>
+<li><span class="math inline">\(H\)</span> - <span
+class="math inline">\([0, 0, 0, 0, 1]\)</span></li>
+<li><span class="math inline">\(S\)</span> - <span
+class="math inline">\([1, 2, 2, 3, 3]\)</span></li>
+<li><span class="math inline">\(P\)</span> - <span
+class="math inline">\([0, 0, 1, 1, 1]\)</span></li>
+</ul>
 <p>Similiarly, we can use the above 3 prefix sum to query the number of
-wins for the second half * the last <span
-class="math inline">\(N-X\)</span> games * gesture</p>
-<p>There are N ways to separate the N games as two halves. For each way,
-we need to compute the max of two halves. The final answer is the max of
-N ways.</p>
+wins for the second half</p>
+<ul>
+<li>the rest <span class="math inline">\(N-X\)</span> games</li>
+<li>gesture</li>
+</ul>
+<p>There are N+1 ways to separate the N games as two halves. The first
+and last ways are using the same gesture (no switch).</p>
+<ul>
+<li>1st (0 games), 2nd (N games)</li>
+<li>1st (1 games), 2nd (N-1 games)</li>
+<li>…</li>
+<li>1st (N games), 2nd (0 games)</li>
+</ul>
+<p>For each way, we need to compute the max of two halves by using any
+gesture combinations. The final answer is the max of all ways.</p>
 <h2 id="code">Code</h2>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="pp">#include </span><span class="im">&lt;bits/stdc++.h&gt;</span></span>
@@ -298,7 +312,7 @@ class="sourceCode cpp"><code class="sourceCode cpp"><span id="cb1-1"><a href="#c
 <span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>        S<span class="op">[</span>i<span class="op">]</span> <span class="op">+=</span> S<span class="op">[</span>i <span class="op">-</span> <span class="dv">1</span><span class="op">];</span></span>
 <span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a>    <span class="op">}</span></span>
 <span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>    <span class="dt">int</span> max_wins <span class="op">=</span> <span class="dv">0</span><span class="op">;</span></span>
-<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> <span class="op">(</span><span class="dt">int</span> i <span class="op">=</span> <span class="dv">1</span><span class="op">;</span> i <span class="op">&lt;=</span> N<span class="op">;</span> <span class="op">++</span>i<span class="op">)</span> <span class="op">{</span></span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a>    <span class="cf">for</span> <span class="op">(</span><span class="dt">int</span> i <span class="op">=</span> <span class="dv">0</span><span class="op">;</span> i <span class="op">&lt;=</span> N<span class="op">;</span> <span class="op">++</span>i<span class="op">)</span> <span class="op">{</span></span>
 <span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a>        <span class="co">// first i games</span></span>
 <span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>        <span class="dt">int</span> first <span class="op">=</span> max<span class="op">({</span>H<span class="op">[</span>i<span class="op">],</span> P<span class="op">[</span>i<span class="op">],</span> S<span class="op">[</span>i<span class="op">]});</span></span>
 <span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a>        <span class="co">// rest of N-i games</span></span>
