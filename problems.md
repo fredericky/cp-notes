@@ -9,7 +9,7 @@
 |[Subarray Sums II](https://cses.fi/problemset/task/1661)|CSES|Easy|[Sol](sols/subarray_sum_ii.html)|
 |[Why Did the Cow Cross the Road II](https://usaco.org/index.php?page=viewproblem2&cpid=715)|USACO Silver|Easy|[Sol](sols/why_did_the_cow_cross_the_road_ii.html)|
 |[Cake Game](https://usaco.org/index.php?page=viewproblem2&cpid=1446)|USACO Silver|Medium|[Sol](sols/cake_game.html)|
-|[Rectangular Pasture](https://usaco.org/index.php?page=viewproblem2&cpid=1063)|USACO Silver|Hard|TBD|
+|[Rectangular Pasture](https://usaco.org/index.php?page=viewproblem2&cpid=1063)|USACO Silver|Hard|[Sol](./sols/rectangular_pasture.html)|
 
 ### Difference Array
 | Problem | Source | Difficulty | Solution |
