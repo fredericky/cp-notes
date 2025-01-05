@@ -121,7 +121,7 @@
 ### Trees
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
-|[Cowntagion](https://usaco.org/index.php?page=viewproblem2&cpid=1062)|USACO Silver|Easy|TBD|
+|[Cowntagion](https://usaco.org/index.php?page=viewproblem2&cpid=1062)|USACO Silver|Easy|[Sol](sols/tree_diameter.html)|
 |[Milk Visits](https://usaco.org/index.php?page=viewproblem2&cpid=968)|USACO Silver|Easy|TBD|
 |[Barn Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1254)|USACO Silver|Medium|TBD|
 |[Clock Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1016)|USACO Silver|Medium|TBD|
