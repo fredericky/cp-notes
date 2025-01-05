@@ -125,7 +125,7 @@
 |[Milk Visits](https://usaco.org/index.php?page=viewproblem2&cpid=968)|USACO Silver|Easy|TBD|
 |[Barn Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1254)|USACO Silver|Medium|TBD|
 |[Clock Tree](https://usaco.org/index.php?page=viewproblem2&cpid=1016)|USACO Silver|Medium|TBD|
-|[Tree Diameter](https://cses.fi/problemset/task/1131)|CSES|Medium|TBD|[Sol](sols/tree_diameter.html)
+|[Tree Diameter](https://cses.fi/problemset/task/1131)|CSES|Medium|[Sol](sols/tree_diameter.html)
 |[Tree Distances I](https://cses.fi/problemset/task/1132/)|CSES|Medium|TBD|
 
 ### Minimum Spanning Trees
