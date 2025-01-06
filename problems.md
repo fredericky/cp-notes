@@ -22,11 +22,11 @@
 |:- |:- |:- |:- |
 |[Angry Cows](https://usaco.org/index.php?page=viewproblem2&cpid=594)|USACO Silver|Easy|[Sol](sols/angry_cows.html)
 |[Closest to the Left](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B)|CF|Easy|[Sol](sols/closest_to_the_left.html)|
-|[Convention](https://usaco.org/index.php?page=viewproblem2&cpid=858)|USACO Silver|Easy|TBD|
+|[Convention](https://usaco.org/index.php?page=viewproblem2&cpid=858)|USACO Silver|Easy|[Sol](./sols/convention.html)|
 |[Fast search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D)|CF|Easy|[Sol](sols/fast_search.html)|
 |[Packing Rectangles](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/A)|CF|Easy|[Sol](sols/packing_rectangles.html)|
 |[Ropes](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B)|CF|Easy|[Sol](sols/ropes.html)|
-|[Very Easy Task](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C)|CF|Easy|TBD|
+|[Very Easy Task](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C)|CF|Easy|[Sol](sols/very_easy_task.html)|
 |[Equation](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E)|CF|Medium|TBD|
 |[Get together](https://codeforces.com/edu/course/2/lesson/6/3/practice/contest/285083/problem/A)|CF|Medium|TBD|
 |[Social Distancing](https://usaco.org/index.php?page=viewproblem2&cpid=1038)|USACO Silver|Medium|TBD|
