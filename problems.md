@@ -81,9 +81,9 @@
 ### Graph Traversal
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
-|[Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895)|USACO Silver|Easy|[Sol](./sols/icy_perimeter.html)|
-|[Round Trip](https://cses.fi/problemset/task/1669)|CSES|Easy|[Sol](./sols/round_trip.html)|
-|[Round Trip II](https://cses.fi/problemset/task/1678)|CSES|Easy|[Sol](./sols/round_trip_ii.html)|
+|[Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895)|USACO Silver|Easy|[Sol](sols/icy_perimeter.html)|
+|[Round Trip](https://cses.fi/problemset/task/1669)|CSES|Easy|[Sol](sols/round_trip.html)|
+|[Round Trip II](https://cses.fi/problemset/task/1678)|CSES|Easy|[Sol](sols/round_trip_ii.html)|
 |[2D Conveyor Belt](https://usaco.org/index.php?page=viewproblem2&cpid=1448)|USACO Silver|Medium|TBD|
 |[Comfortable Cows](https://usaco.org/index.php?page=viewproblem2&cpid=1110)|USACO Silver|Medium|TBD|
 |[Connecting Two Barns](https://usaco.org/index.php?page=viewproblem2&cpid=1159)|USACO Silver|Medium|TBD|

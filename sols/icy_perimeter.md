@@ -3,7 +3,7 @@
 This problem is to compute the area and perimeter of all connected components. Area is easy, it just counts the number of cells in the connected component. The perimeter is dectected as follows:
 
 * The cell edge next to the boarder
-* The cell edge next to empty space `.`
+* The cell edge next to empty space
 
 ## Code
 
