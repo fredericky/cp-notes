@@ -15,8 +15,6 @@ int N;
 vector<vector<char>> grid;
 vector<vector<bool>> visited;
 
-vector<vector<int>> D{{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-
 int area, perimeter;
 
 void dfs(int r, int c) {
