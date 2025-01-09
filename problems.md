@@ -38,7 +38,7 @@
 |[High Card Low Card (Gold)](https://usaco.org/index.php?page=viewproblem2&cpid=573)|USACO Gold|Easy|TBD|
 |[Lemonade Line](https://usaco.org/index.php?page=viewproblem2&cpid=835)|USACO Silver|Easy|TBD|
 |[Searching for Soulmates](https://usaco.org/index.php?page=viewproblem2&cpid=1182)|USACO Silver|Easy|TBD|
-|[Stick Lengths](https://cses.fi/problemset/result/11591257/)|CSES|Easy|[sol](sols/stick_lengths.html)
+|[Stick Lengths](https://cses.fi/problemset/result/11591257/)|CSES|Easy|[Sol](sols/stick_lengths.html)
 |[Why Did the Cow Cross the Road](https://usaco.org/index.php?page=viewproblem2&cpid=714)|USACO Silver|Easy|TBD|
 |[Berry Picking](https://usaco.org/index.php?page=viewproblem2&cpid=990)|USACO Silver|Medium|TBD|
 |[Bovine Acrobatics](https://usaco.org/index.php?page=viewproblem2&cpid=1350)|USACO Silver|Medium|TBD|
@@ -81,7 +81,7 @@
 ### Graph Traversal
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
-|[Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895)|USACO Silver|Easy|TBD|
+|[Icy Perimeter](https://usaco.org/index.php?page=viewproblem2&cpid=895)|USACO Silver|Easy|[Sol](./sols/icy_perimeter.html)|
 |[Round Trip](https://cses.fi/problemset/task/1669)|CSES|Easy|TBD|
 |[Round Trip II](https://cses.fi/problemset/task/1678)|CSES|Easy|TBD|
 |[2D Conveyor Belt](https://usaco.org/index.php?page=viewproblem2&cpid=1448)|USACO Silver|Medium|TBD|
