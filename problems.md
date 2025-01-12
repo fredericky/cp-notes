@@ -101,8 +101,7 @@
 ### Disjoint Set
 | Problem | Source | Difficulty | Solution |
 |:------- |:------ |:---------- |:-------- |
-|[Moocast](https://usaco.org/index.php?page=viewproblem2&cpid=669)|USACO Gold|Easy|TBD|
-|[Road Construction](https://cses.fi/problemset/task/1676)|CSES|Easy|TBD|
+|[Road Construction](https://cses.fi/problemset/task/1676)|CSES|Easy|[Sol](sols/road_construction.html)|
 |[Two Sets](https://codeforces.com/contest/468/problem/B)|CF|Medium|TBD|
 |[Wormhole Sort](https://usaco.org/index.php?page=viewproblem2&cpid=992)|USACO Silver|Medium|TBD|
 
@@ -132,4 +131,7 @@
 ### Minimum Spanning Trees
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
+|[Moocast](https://usaco.org/index.php?page=viewproblem2&cpid=669)|USACO Gold|Easy|TBD|
 |[Road Reparation](https://cses.fi/problemset/task/1675)|CSES|Easy|TBD|
+|[Superbull](https://usaco.org/index.php?page=viewproblem2&cpid=531)|USACO Silver|Easy|TBD|
+|[Moo Network](https://usaco.org/index.php?page=viewproblem2&cpid=1211)|USACO Gold|Easy|TBD|
