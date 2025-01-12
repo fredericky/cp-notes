@@ -109,6 +109,7 @@
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
 |[Flight Discount](https://cses.fi/problemset/task/1195)|CSES|Easy|TBD|
+|[Labyrinth](https://cses.fi/problemset/task/1193/)|CSES|Easy|[Sol](sols/labyrinth.html)|
 |[Message Route](https://cses.fi/problemset/task/1667)|CSES|Easy|[Sol](sols/message_route.html)|
 |[Milk Pumping](https://usaco.org/index.php?page=viewproblem2&cpid=969)|USACO Gold|Easy|TBD|
 |[Shortest Routes I](https://cses.fi/problemset/task/1671)|CSES|Easy|TBD|
