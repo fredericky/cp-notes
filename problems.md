@@ -109,14 +109,13 @@
 | Problem | Source | Difficulty | Solution |
 |:- |:- |:- |:- |
 |[Flight Discount](https://cses.fi/problemset/task/1195)|CSES|Easy|TBD|
-|[Message Route](https://cses.fi/problemset/task/1667)|CSES|Easy|TBD|
+|[Message Route](https://cses.fi/problemset/task/1667)|CSES|Easy|[Sol](sols/message_route.html)|
 |[Milk Pumping](https://usaco.org/index.php?page=viewproblem2&cpid=969)|USACO Gold|Easy|TBD|
-|[Timeline](https://usaco.org/index.php?page=viewproblem2&cpid=1017)|USACO Gold|Easy|TBD|
+|[Shortest Routes I](https://cses.fi/problemset/task/1671)|CSES|Easy|TBD|
 |[Construct a Palindrome](https://atcoder.jp/contests/abc197/tasks/abc197_f)|AtCoder|Medium|TBD|
 |[Flight Routes](https://cses.fi/problemset/task/1196)|CSES|Medium|TBD|
 |[Graph Girth](https://cses.fi/problemset/task/1707)|CSES|Medium|TBD|
 |[Lasers and Mirrors](https://usaco.org/index.php?page=viewproblem2&cpid=671)|USACO Gold|Medium|TBD|
-|[Shortest Routes I](https://cses.fi/problemset/task/1671)|CSES|Easy|TBD|
 
 ### Trees
 | Problem | Source | Difficulty | Solution |
@@ -134,4 +133,4 @@
 |[Moocast](https://usaco.org/index.php?page=viewproblem2&cpid=669)|USACO Gold|Easy|TBD|
 |[Road Reparation](https://cses.fi/problemset/task/1675)|CSES|Easy|TBD|
 |[Superbull](https://usaco.org/index.php?page=viewproblem2&cpid=531)|USACO Silver|Easy|TBD|
-|[Moo Network](https://usaco.org/index.php?page=viewproblem2&cpid=1211)|USACO Gold|Easy|TBD|
+|[Moo Network](https://usaco.org/index.php?page=viewproblem2&cpid=1211)|USACO Gold|Medium|TBD|
