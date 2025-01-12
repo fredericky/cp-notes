@@ -96,6 +96,7 @@
 |[Course Schedule](https://cses.fi/problemset/task/1679)|CSES|Easy|[Sol](sols/course_schedule.html)|
 |[Directing Edges](https://codeforces.com/contest/1385/problem/E)|CF|Easy|[Sol](sols/directing_edges.html)|
 |[Fox and Names](https://codeforces.com/problemset/problem/510/C)|CF|Easy|[Sol](sols/fox_and_names.html)|
+|[Timeline](https://usaco.org/index.php?page=viewproblem2&cpid=1017)|USACO Gold|Medium|[Sol](sols/timeline.html)|
 
 ### Disjoint Set
 | Problem | Source | Difficulty | Solution |
